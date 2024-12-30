@@ -6,6 +6,8 @@ This is useful for devices with a 16x16 pixel screen such as [Yoto player](https
 
 ## Index
 
+To download, first follow the link. Then use 'download raw file' (or right click and 'save image as').
+
 * [abacus 🧮](transparent-background/abacus.png)
 * [accordion 🪗](transparent-background/accordion.png)
 * [adhesive bandage 🩹](transparent-background/adhesive_bandage.png)
