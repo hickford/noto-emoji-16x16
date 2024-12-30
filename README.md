@@ -7,6 +7,7 @@ This is useful for devices with a 16x16 pixel screen such as [Yoto player](https
 ## See also
 
 * <https://www.yotoicons.com/>
+* [MYO Studio](https://chromewebstore.google.com/detail/myo-studio/olloopaapdodegpcacjmgdjaphggfgoj) Chrome extension
 
 ## Index
 
