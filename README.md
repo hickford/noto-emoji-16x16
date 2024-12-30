@@ -10,7 +10,7 @@ This is useful for devices with a 16x16 pixel screen such as [Yoto player](https
 
 ## Index
 
-To download, first follow the link then use 'download raw file'. Alternatively, right click and 'save image as'.
+To download, first follow the link then use 'download raw file'. Alternatively, right click and 'save image as'. On the Yoto player, the [transparent background appears black](https://support.yotoplay.com/en-US/how-to-add-custom-icons-to-your-make-your-own-cards-21689), so the two images are equivalent.
 
 | Emoji | Transparent background | Black background |
 | -- | -- | -- |
